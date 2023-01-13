@@ -1,0 +1,25 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/f5a19d4c-ffa7-4ca6-9ea1-3065dd0e38df/deploy-status)](https://app.netlify.com/sites/utilis/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitAji/Modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitAji/Modules/issues"
+  },
+  "homepage": "https://github.com/gitAji/Modules#readme",
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
